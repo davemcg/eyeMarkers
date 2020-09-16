@@ -58,13 +58,13 @@ NFASC,Bipolar
 ASCL1,Bipolar
 VSX1,Bipolar
 BHLHE22,Bipolar
-CALBP1,Muller,Glia
-GLUL,Muller,Glia
-CLU,Muller,Glia
-DKK3,Muller,Glia
-SLC1A3,Muller,Glia
-HES1,Muller,Glia
-HESR2,Muller,Glia
+CALBP1,Muller Glia
+GLUL,Muller Glia
+CLU,Muller Glia
+DKK3,Muller Glia
+SLC1A3,Muller Glia
+HES1,Muller Glia
+HESR2,Muller Glia
 GFAP,Astrocytes
 CSPG4,Astrocytes
 PAX2,Astrocytes
