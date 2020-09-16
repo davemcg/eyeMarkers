@@ -13,7 +13,7 @@ Pulled author-curated retinal markers markers from supplementary information
 
 ### Amigo 2020 09 16
 
-Searched for "retina" with "direct and indirect terms" and limited results to "mammalia". Custom download (unfortunately this involves clicking and dragging).
+Searched for "retina" with "direct and indirect terms" and limited results to "mammalia". Custom download (unfortunately this involves clicking and dragging). Hand created the title, as amigo does not provide with the download file for some reason. 
 
 [TSV](lists/amigo_retina_2020_09_16.tsv)
 
