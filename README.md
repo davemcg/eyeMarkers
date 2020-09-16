@@ -14,7 +14,9 @@ Pulled author-curated retinal markers markers from supplementary information
 ### Amigo 2020 09 16
 
 Searched for "retina" with "direct and indirect terms" and limited results to "mammalia". Custom download (unfortunately this involves clicking and dragging).
+
 `amigo_retina  <- readr::read_tsv('https://raw.githubusercontent.com/davemcg/eyeMarkers/master/lists/amigo_retina_2020_09_16.tsv')`
+
 ## RPE
 
 ### Ferrer 2014, 10.5966/sctm.2013-0192
