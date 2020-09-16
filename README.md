@@ -6,6 +6,7 @@ Lists of genes that mark different cells populations in mammalian eyes
 
 ### Mellough 2019, 10.1242/dev.169474
 Pulled author-curated retinal markers markers from supplementary information
+
 [CSV](lists/rpc_markers__Mellough2019.csv)
 
 `retina <- readr::read_csv('https://raw.githubusercontent.com/davemcg/eyeMarkers/master/lists/rpc_markers__Mellough2019.csv')`
