@@ -4,6 +4,12 @@ Lists of genes that mark different cells populations in mammalian eyes
 
 ## Retina 
 
+### Cowan 2020, [https://doi.org/10.1016/j.cell.2020.08.013](https://www.sciencedirect.com/science/article/pii/S0092867420310047)
+Pulled author curated cell type specific markers from methods. 
+
+Multiplets occur when one cell barcode shares transcripts from multiple single cells due to incomplete dissociation or well-dissoci- ated single cells being placed in the same droplet. Transcriptomes likely to be multiplets were first identified by the presence of ge- netic markers for two or more cell classes or sets of classes. The sets of markers were – rods: GNGT1, NRL, PDE6G, RHO; cones: ARR3, CNGA3, OPN1LW, OPN1MW, OPN1SW, PDE6H; horizontal cells: LHX1, LNP1, ONECUT1, VAT1L; bipolar cells: GRIK1, IRX6, LRTM1, PCP2, PRKCA, TRPM1, VSX1, VSX2; amacrine cells: GAD1, SLC6A9, TFAP2A, TFAP2B; ganglion cells: POU4F2, NEFL, NEFM, RBPMS, SLC17A6, SNCG, THY1; pigmented cells: BEST1, MITF, MLANA, TJP1, RPE65; glial cells: CRABP1, GFAP, GLUL; endothelial cells, mural cells and fibroblasts: ACTA2, COL1A2, EGFL7, PDGFRB, PROCR, VWF; immune cells: AIF1, CD2, CD48, CX3CR1, HBB, IL32, JCHAIN, LST1.
+
+
 ### Mellough 2019, [10.1242/dev.169474](https://dev.biologists.org/content/146/2/dev169474)
 Pulled author-curated retinal markers markers from supplementary information
 
