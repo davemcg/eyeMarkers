@@ -1,5 +1,5 @@
 # eyeMarkers
-Lists of genes that mark different cells populations in mammalian eyes
+Lists of genes that mark different cell populations in mammalian eyes
 
 
 ## Retina 
