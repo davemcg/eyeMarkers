@@ -37,3 +37,6 @@ Searched for "retina" with "direct and indirect terms" and limited results to "m
 [CSV](lists/rpe_ferrer_2014.csv)
 
 `rpe <- readr::read_csv('https://raw.githubusercontent.com/davemcg/eyeMarkers/master/lists/rpe_ferrer_2014.csv')`
+
+### "Bharti" 2010, [https://doi.org/10.1093/hmg/ddq129](https://doi.org/10.1093/hmg/ddq129)
+"Using stringent selection criteria of at least 10-fold higher expression in three distinct preparations, we identified 154 RPE signature genes, which were validated by qRT-PCR analysis in RPE and in an independent set of 11 tissues."
