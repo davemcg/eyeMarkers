@@ -40,3 +40,12 @@ Searched for "retina" with "direct and indirect terms" and limited results to "m
 
 ### "Bharti" 2010, [https://doi.org/10.1093/hmg/ddq129](https://doi.org/10.1093/hmg/ddq129)
 "Using stringent selection criteria of at least 10-fold higher expression in three distinct preparations, we identified 154 RPE signature genes, which were validated by qRT-PCR analysis in RPE and in an independent set of 11 tissues."
+
+`rpe <- scan('https://raw.githubusercontent.com/davemcg/eyeMarkers/master/lists/bharti_rpe_markers.txt', what = 'character')`
+
+## Pan Eye
+
+### Swamy et al, [https://tvst.arvojournals.org/article.aspx?articleid=2792870](https://tvst.arvojournals.org/article.aspx?articleid=2792870)
+"These cell types were then assessed to identify differentially expressed genes that met the following criteria across human, mouse, and macaque: (1) adjusted P value (padj) less than 1 × 10–4 in two or more species, (2) mean log2 fold change greater than 2, and (3) mean padj less than 1 × 10–5. A final filter was applied to remove genes as candidates if they were differentially expressed (using the criteria above) in more than three different cell types. This left us with 2790 gene–cell type markers, a substantial reduction from the 33,927 we had initially...we selected up to eight genes (ordered by the mean log2 fold change across organisms) per well-supported cell type for each..."
+
+`pan_eye <- readr::read_tsv("https://raw.githubusercontent.com/davemcg/eyeMarkers/master/lists/plae_consist_diff.tsv")`
