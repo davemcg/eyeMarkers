@@ -49,3 +49,13 @@ Searched for "retina" with "direct and indirect terms" and limited results to "m
 "These cell types were then assessed to identify differentially expressed genes that met the following criteria across human, mouse, and macaque: (1) adjusted P value (padj) less than 1 × 10–4 in two or more species, (2) mean log2 fold change greater than 2, and (3) mean padj less than 1 × 10–5. A final filter was applied to remove genes as candidates if they were differentially expressed (using the criteria above) in more than three different cell types. This left us with 2790 gene–cell type markers, a substantial reduction from the 33,927 we had initially...we selected up to eight genes (ordered by the mean log2 fold change across organisms) per well-supported cell type for each..."
 
 `pan_eye <- readr::read_tsv("https://raw.githubusercontent.com/davemcg/eyeMarkers/master/lists/plae_consist_diff.tsv")`
+
+# Disease
+
+## Coloboma
+
+### George et al, [https://www.sciencedirect.com/science/article/abs/pii/S0014483519306001?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S0014483519306001?via%3Dihub)
+
+Tables 2 (non-syndromic) and 3 (syndromic) of curated coloboma associated or causing genes.
+
+coloboma <- readr::read_csv("https://raw.githubusercontent.com/davemcg/eyeMarkers/master/lists/george_brooks_coloboma_2020.csv")
